@@ -2,10 +2,10 @@
 Continuation of previous CustomerReviews project for the Udacity midterm, supporting Polyglot persistence with the storing of Review data in both MySQL and MongoDB
 
 ## Installation
-Download the project via github and open it using a IDE such as IntelliJ
+Download the project via github and open it using an IDE such as IntelliJ
 
 ## Usage
-Run the project using maven and use a tool like postman or the localhost on a web browser to compute the following commands:
+Run the project using Maven and use a tool like postman or the localhost on a web browser to compute the following commands:
 
 ## Products
 Create product (POST) -> http://localhost:8080/products/
