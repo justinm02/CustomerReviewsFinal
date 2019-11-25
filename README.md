@@ -5,7 +5,7 @@ Continuation of previous CustomerReviews project for the Udacity midterm, suppor
 Download the project via github and open it using an IDE such as IntelliJ
 
 ## Usage
-Run the project using Maven and use a tool like postman or the localhost on a web browser to compute the following commands:
+Run the project using Maven and use a tool like Postman or the localhost on a web browser to compute the following commands:
 
 ## Products
 Create product (POST) -> http://localhost:8080/products/
